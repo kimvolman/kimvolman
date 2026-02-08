@@ -1,4 +1,4 @@
-Hi, I’m Kim Volman
+Hi, I’m [Kim Volman](https://kimvolman.com/)
 
 I’m a pharmacy leader and healthcare strategist with hands-on experience in pharmacy operations, long-term care, and specialty pharmacy environments. My background as a pharmacist shapes how I approach leadership, system design, and innovation in highly regulated healthcare settings.
 
