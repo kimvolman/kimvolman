@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I’m Kim Volman
 
-<!--
-**kimvolman/kimvolman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a pharmacy leader and healthcare strategist with hands-on experience in pharmacy operations, long-term care, and specialty pharmacy environments. My background as a pharmacist shapes how I approach leadership, system design, and innovation in highly regulated healthcare settings.
 
-Here are some ideas to get you started:
+I focus on building scalable, patient-centered pharmacy operations by aligning people, processes, and technology. Over the years, I’ve worked on initiatives involving operational optimization, quality improvement, compliance, and the responsible adoption of new technologies. I’m particularly interested in how healthcare systems can evolve without compromising safety, ethics, or clinical judgment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work often sits at the intersection of healthcare operations and strategy—where practical execution matters just as much as long-term vision. I value clear communication, accountability, and continuous improvement, especially in environments where small decisions can have significant patient impact.
+
+Areas of interest
+
+Pharmacy operations & leadership
+
+Long-term care and specialty pharmacy
+
+Healthcare technology & systems design
+
+Quality, compliance, and risk management
+
+Patient-centered care models
+
+I use GitHub to explore ideas, document projects, and engage with topics related to healthcare operations, innovation, and leadership.
