@@ -19,3 +19,7 @@ Quality, compliance, and risk management
 Patient-centered care models
 
 I use GitHub to explore ideas, document projects, and engage with topics related to healthcare operations, innovation, and leadership.
+
+You may connect with me on
+
+[Linkedin](https://www.linkedin.com/in/kim-volman-rph-48ab4224), [Facebook](https://www.facebook.com/profile.php?id=61583636424947), [X](https://x.com/kimvolmanpharma), [Medium](https://medium.com/@kimvolmanpharmacist) and [Substack](https://substack.com/@kimvolman).
